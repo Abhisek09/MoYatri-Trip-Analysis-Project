@@ -40,7 +40,7 @@ This report analyzes **MoYatri's booking data from July to December 2024**, prov
 - Location heatmap for booking density
 - Date and City filters
 
-![Home Page](images/homepage.png)
+![Home Page](homepage.png)
 
 ---
 
@@ -56,7 +56,7 @@ This report analyzes **MoYatri's booking data from July to December 2024**, prov
 - Vehicle Type Comparison:
   - Bookings, Revenue, Distance
 
-![Overview Page](images/overview.png)
+![Overview Page](overview.png)
 
 ---
 
@@ -75,7 +75,7 @@ This report analyzes **MoYatri's booking data from July to December 2024**, prov
   - Day
   - By Hour and Day
 
-![Time Analysis Page](images/time.png)
+![Time Analysis Page](time.png)
 
 
 ---
@@ -84,7 +84,7 @@ This report analyzes **MoYatri's booking data from July to December 2024**, prov
 
 Granular data visualizations and deep dives for internal ops and performance optimization.
 
-![Detailed Data](images/detail.png)
+![Detailed Data](detail.png)
 
 ---
 
@@ -136,4 +136,5 @@ Granular data visualizations and deep dives for internal ops and performance opt
 
 **Abhisek Jena**   
 📧 [abhisek.jena48@gmail.com] 
+
 
